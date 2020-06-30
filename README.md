@@ -5,3 +5,7 @@ https://www.securityweek.com/strongpity-group-targets-encrypted-data-communicati
 https://www.securityweek.com/strongpity-targets-victims-malicious-winbox-installer
 
 https://www.cyberscoop.com/strongpity-apt-alien-labs-turkey/
+
+https://blog.talosintelligence.com/2020/06/promethium-extends-with-strongpity3.html
+
+https://www.bitdefender.com/files/News/CaseStudies/study/353/Bitdefender-Whitepaper-StrongPity-APT.pdf
