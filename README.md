@@ -13,3 +13,5 @@ https://www.bitdefender.com/files/News/CaseStudies/study/353/Bitdefender-Whitepa
 https://www.securityweek.com/cyber-espionage-group-strongpity-focuses-kurdish-community
 
 https://cyware.com/news/hacker-for-hire-strongpity-apt-going-global-with-its-new-infrastructure-86298602
+
+https://0xthreatintel.medium.com/uncovering-apt-c-41-strongpity-backdoor-e7f9a7a076f4
