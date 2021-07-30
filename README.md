@@ -17,3 +17,5 @@ https://cyware.com/news/hacker-for-hire-strongpity-apt-going-global-with-its-new
 https://0xthreatintel.medium.com/uncovering-apt-c-41-strongpity-backdoor-e7f9a7a076f4
 
 https://thehackernews.com/2021/07/apt-hackers-distributed-android-trojan.html
+
+https://www.trendmicro.com/en_us/research/21/g/strongpity-apt-group-deploys-android-malware-for-the-first-time.html
