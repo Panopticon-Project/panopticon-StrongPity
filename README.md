@@ -19,3 +19,5 @@ https://0xthreatintel.medium.com/uncovering-apt-c-41-strongpity-backdoor-e7f9a7a
 https://thehackernews.com/2021/07/apt-hackers-distributed-android-trojan.html
 
 https://www.trendmicro.com/en_us/research/21/g/strongpity-apt-group-deploys-android-malware-for-the-first-time.html
+
+https://www.zdnet.com/article/blackberry-report-highlights-initial-access-broker-providing-entry-to-strongpity-apt-mountlocker-and-phobos-ransomware-gangs/
