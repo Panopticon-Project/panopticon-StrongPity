@@ -21,3 +21,5 @@ https://thehackernews.com/2021/07/apt-hackers-distributed-android-trojan.html
 https://www.trendmicro.com/en_us/research/21/g/strongpity-apt-group-deploys-android-malware-for-the-first-time.html
 
 https://www.zdnet.com/article/blackberry-report-highlights-initial-access-broker-providing-entry-to-strongpity-apt-mountlocker-and-phobos-ransomware-gangs/
+
+https://thehackernews.com/2021/11/blackberry-uncover-initial-access.html
