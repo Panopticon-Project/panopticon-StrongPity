@@ -23,3 +23,5 @@ https://www.trendmicro.com/en_us/research/21/g/strongpity-apt-group-deploys-andr
 https://www.zdnet.com/article/blackberry-report-highlights-initial-access-broker-providing-entry-to-strongpity-apt-mountlocker-and-phobos-ransomware-gangs/
 
 https://thehackernews.com/2021/11/blackberry-uncover-initial-access.html
+
+https://malwaretips.com/threads/malicious-notepad-installers-push-strongpity-malware.111391/
