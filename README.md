@@ -25,3 +25,7 @@ https://www.zdnet.com/article/blackberry-report-highlights-initial-access-broker
 https://thehackernews.com/2021/11/blackberry-uncover-initial-access.html
 
 https://malwaretips.com/threads/malicious-notepad-installers-push-strongpity-malware.111391/
+
+https://www.microsoft.com/security/blog/2016/12/14/twin-zero-day-attacks-promethium-and-neodymium-target-individuals-in-europe/
+
+https://threatpost.com/strongpity-apt-retooled-spyware/146503/
