@@ -29,3 +29,5 @@ https://malwaretips.com/threads/malicious-notepad-installers-push-strongpity-mal
 https://www.microsoft.com/security/blog/2016/12/14/twin-zero-day-attacks-promethium-and-neodymium-target-individuals-in-europe/
 
 https://threatpost.com/strongpity-apt-retooled-spyware/146503/
+
+https://www.welivesecurity.com/2023/01/10/strongpity-espionage-campaign-targeting-android-users/
